@@ -1,21 +1,8 @@
-# React-form
-React Form Project
+# React + Vite
 
-Overview
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-This is a React-based form project designed to collect user input and handle form submissions efficiently. It includes validation, controlled components, and state management to enhance the user experience.
+Currently, two official plugins are available:
 
-Features
-
-User-friendly form with input fields (text, email, password, etc.)
-
-Validation using React state or external libraries (e.g., Yup, React Hook Form)
-
-Controlled components for real-time user input handling
-
-Error messages for incorrect inputs
-
-Submission handling with API integration
-
-Responsive design for better accessibility
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
